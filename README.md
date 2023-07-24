@@ -1,2 +1,2 @@
 # Decision_Tree
-This GitHub repository showcases the implementation and exploration of Decision Trees in data science. 
+This GitHub repository showcases the implementation and exploration of Decision Trees in data science. Decision Trees are powerful machine learning algorithms used for both classification and regression tasks. The repository includes Python code and Jupyter notebooks that demonstrate how to build, visualize, and interpret Decision Trees, making it a valuable resource for beginners and aspiring data scientists. Through this project, users can gain a solid understanding of Decision Trees and their applications in various domains, helping them make informed decisions in their own data-driven projects.
